@@ -1,0 +1,9 @@
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.csprojAssemblyReference.cache
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.AssemblyInfoInputs.cache
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.AssemblyInfo.cs
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.csproj.CoreCompileInputs.cache
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\bin\Debug\netstandard2.0\Desafio.Model.deps.json
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\bin\Debug\netstandard2.0\Desafio.Model.dll
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\bin\Debug\netstandard2.0\Desafio.Model.pdb
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.dll
+C:\Users\p.campos.garcia\Documents\Desalocação\IternalTalent\Desafio_InternalTalent\Desafio\Desafio.Model\obj\Debug\netstandard2.0\Desafio.Model.pdb

@@ -1,2 +1,0 @@
-# apiExample
-Example API
